@@ -1,2 +1,2 @@
 # Galaxian-project
-Project  for the cs project
+Project for CS 1200
